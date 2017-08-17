@@ -1,0 +1,19 @@
+========
+Unity2048
+========
+http://www.iverv.com/2014/04/unity2048.html
+http://www.iverv.com/2017/08/unity2048.html
+
+**Unity2048** is an unity-editor-based version of 2048_.
+
+.. _2048: http://gabrielecirulli.github.io/2048/
+.. _term2048: https://travis-ci.org/bfontaine/term2048
+
+Contributions
+-------------
+
+v0.1.0, 2014-04-18 -- Initial release @verv
+v0.2.0, 2017-08-01 -- Change main system, add cell moving/popin animation. @verv
+v0.3.0, 2017-08-16 -- Add dynamic board and cell size. @verv
+v0.3.1, 2017-08-15 -- Fixed animation bug. @verv
+v0.4.0, 2017-08-17 -- Add key records and back action. @verv
